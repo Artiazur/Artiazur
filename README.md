@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Armita<br><br>🚀I study Computer engineering in bachelor.<br>-----<br>🔭I'm currently working on Linux, DataMining, FastAPI, SQL, Django<br>-----<br>🎯My goal is becoming a great Backend Developer.
+👋 Hi, I'm Armita<br><br>🚀I study Computer engineering in bachelor.<br>-----<br>🔭I'm currently working on Linux, DataMining, FastAPI<br>-----<br>🎯My goal is becoming a great Backend Developer.
 
 
 ## 🌐 Socials:
